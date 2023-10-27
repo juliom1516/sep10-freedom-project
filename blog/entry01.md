@@ -10,7 +10,7 @@ The topic that I have chosen for this project is sports because as a kid and now
 I'm currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that **people are not informed about the world of technology in Sports**. The following stage is to research the problem and I plan to use not only articles and websites, but to also talk to my peers and those around me to discuss the issue and gain their input on the situation. 
 
 ## Skills
-Some skills that I’ve learned from working on this blog are **time management**, **how to google**, **communication** as well as **how to read**. 
+Some skills that I’ve learned from working on this blog are **time management**, **how to google**, **communication** as well as **how to efficiently read articles**. 
 
 
 ## Time managment 
