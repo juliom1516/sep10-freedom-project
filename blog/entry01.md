@@ -13,6 +13,20 @@ I'm currently in the first stage of the engineering design process, where the ma
 Some skills that I’ve learned from working on this blog are **time management**, **how to google**, **communication** as well as **how to read**. 
 
 
+## Time managment 
+I have several commitments outside of school, such as picking up my brother, practicing for the soccer team, being a fighter and helping my brothers along with their work. My work at school is getting busier and I'm not getting enough sleep so i decided to make time for the project by playing soccer on the weekends instead of the weekdays. Doing this has helped me get my work done while doing other stuff as well. 
+
+## How to google 
+When I Googled about how sports correlates with technology many options showed up. Of Course I wasn't going to check all of the options that showed up. By skimming through the titles and the descritpions. Seeing articles like ["Sports Technology: How It's Changing The Game"] (https://www.jobsinsports.com/blog/2022/01/12/sports-technology-how-its-changing-the-game/#:~:text=Sports%20technology%20discerns%20interests%20and,were%20made%20or%20penalties%20occurred.) I knew I was on the right track of what I was searching for. 
+
+
+## Communication 
+Communication was a skill i developed. Since I was having trouble on what websites to use I had asked a friend to help me and we decided to talk about it. Initially, we were searching on our own and kept the results to ourselves. However, as a quick and effective way to communicate what we found, we eventually decided to share each others numbers so we had a way to communication . We want to discuss the project with each other at least once a week. 
+
+## How to read
+Learning to read was another ability I attained. We had to carefully examine each article to determine which one corresponded with the topic after searching online. There were several phrases I was unfamiliar with, so I looked them up on Google, which connects to my first ability. However, reading an article differs greatly from reading a book. Numerous articles feature headings and subheadings that help to organize the information into manageable reading segments.
+ 
+
 [Next](entry02.md)
 
 [Home](../README.md)
