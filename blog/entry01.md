@@ -17,7 +17,7 @@ Some skills that I’ve learned from working on this blog are **time management*
 I have several commitments outside of school, such as picking up my brother, practicing for the soccer team, being a fighter and helping my brothers along with their work. My work at school is getting busier and I'm not getting enough sleep so i decided to make time for the project by playing soccer on the weekends instead of the weekdays. Doing this has helped me get my work done while doing other stuff as well. 
 
 ## How to google 
-When I Googled about how sports correlates with technology many options showed up. Of Course I wasn't going to check all of the options that showed up. By skimming through the titles and the descritpions. Seeing articles like ["Sports Technology: How It's Changing The Game"] (https://www.jobsinsports.com/blog/2022/01/12/sports-technology-how-its-changing-the-game/#:~:text=Sports%20technology%20discerns%20interests%20and,were%20made%20or%20penalties%20occurred.) I knew I was on the right track of what I was searching for. 
+When I Googled about how sports correlates with technology many options showed up. Of Course I wasn't going to check all of the options that showed up. When I was scrolling through, seeing articles like ["Sports Technology: How It's Changing The Game"] (https://www.jobsinsports.com/blog/2022/01/12/sports-technology-how-its-changing-the-game/#:~:text=Sports%20technology%20discerns%20interests%20and,were%20made%20or%20penalties%20occurred.) I knew I was on the right track of what I was searching for. 
 
 
 ## Communication 
