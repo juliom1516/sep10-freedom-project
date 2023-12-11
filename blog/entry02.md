@@ -1,7 +1,9 @@
 # Entry 2
-##### X/X/XX
+##### 12/11/23
 
-Text
+### Hardware 
+
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
