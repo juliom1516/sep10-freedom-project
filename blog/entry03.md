@@ -1,7 +1,11 @@
 # Entry 3
-##### X/X/XX
+##### 12/18/23
 
-Text
+### Context  
+I brainstormed part B because in sports the players get ingured while playing their sport. I've looked throughout the internet in search of looking for ways that players can be safe and we can track their scores as well. 
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
