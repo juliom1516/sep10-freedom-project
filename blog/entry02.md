@@ -6,7 +6,8 @@ Exercise
 Treadmills  
 Weight lifting  
 Sporting goods  
-
+Training equipment  
+Protective equipment
 ### Software 
 Training apps  
 Tracking apps  
