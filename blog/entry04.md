@@ -15,9 +15,9 @@ The tool I am using is Aframe. Aframe helps design virtual reality (VR) experien
 4. Creating a plane
    No, not an actual plane. The code ```<a-plane>``` uses the geometry component with the type set to plane to produce flat surfaces.
 5. Creating an image
-   The code ```<a-image>``` displays a picture on a level surface or as we call it, the plane. 
+   The code ```<a-image>``` displays a picture on a level surface or as they call it, the plane. 
 
-## Basics
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
