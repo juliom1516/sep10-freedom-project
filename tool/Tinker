@@ -6,6 +6,20 @@
   <title>Freedom Project</title>
 </head>
 <body>
+  <a-scene>
+    <a-assets>
 
+      <!-- Images. -->
+      <img id="city" src="https://cdn.aframe.io/360-image-gallery-boilerplate/img/city.jpg">
+      >
+    </a-assets>
+
+    <!-- 360-degree image. -->
+    <a-sky id="image-360" radius="10" src="#city"></a-sky>
+
+    <!-- Link template we will build. -->
+    <a-entity class="link"></a-entity>
+
+  </a-scene>
 </body>
 </html>
