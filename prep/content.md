@@ -6,8 +6,8 @@ Topic: Sport Technology
 * Text
 
 ## Part A: existing technology
-* Tech
-  * Detail
+* Heart rate monitors to track pulse and breathing patterns
+  * monitors use sensors located on a chest strap or your wrist. Heart rate monitors with chest straps are the most accurate.
   * [image text](image URL)
 
 ## Part B: possible future technology
