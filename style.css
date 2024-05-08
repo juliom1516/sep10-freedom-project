@@ -4,16 +4,16 @@
 }
 
 .Intro {
-    text-align:center;
-    margin:50 10 10 10
+    text-align:left;
+    margin:50 10 10 10;
 }
 
 .Tech {
-    text-align:center;
-    margin: 50 10 10 10
-}.
+    text-align:left;
+    margin: 50 10 10 10;
+}
 
 .Idea {
-    text-align:right;
-    margin: 50 10 10 10
+    text-align:left;
+    margin: 50 10 10 10;
 }
