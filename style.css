@@ -24,7 +24,6 @@ body {background-color: lightblue;}
 .navbarNav {background-color:green;}
 
 
-.Pictures{
-    padding-right:40;
-
+.img {
+    margin-right: auto;
 }
