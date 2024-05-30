@@ -6,7 +6,9 @@
 <li>Go in order from the beginning to the end</li>
 <li> Take your time but not too much time</li>
 <li> leave time for quesitons</li>
-<li> </li>
+<li> Explain important stuff first </li>
+<li> Make your slides/project presentable </li> 
+<li> 
 
 
 
