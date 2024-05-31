@@ -8,6 +8,7 @@
 <li> leave time for quesitons</li>
 <li> Explain important stuff first </li>
 <li> Make your slides/project presentable </li> 
+<li> short sentences or statements that summarize the key points of the presentation </li>
 
 
 
