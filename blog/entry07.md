@@ -10,6 +10,8 @@
 <li> Make your slides/project presentable </li> 
 <li> short sentences or statements that summarize the key points of the presentation </li>
 
+SEP10 notes (https://docs.google.com/document/d/1BPWaw89Qy7e-kC05bsa_pbRqh_PpZzbl6O8OwlmhYoA/edit)
+FP presentation slides (https://docs.google.com/presentation/d/1P0c9jxDH4fM0-datijCHGqR3YLkZMCUeOendhL9ZR7E/edit) 
 
 
 [Previous](entry06.md) | [Next](entry08.md)
