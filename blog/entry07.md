@@ -15,14 +15,14 @@ FP presentation slides (https://docs.google.com/presentation/d/1P0c9jxDH4fM0-dat
 
 elevator pitch
 
-</ol> Why I decided to choose the topic </ol>
-<ol> What’s websites were used </ol>  
-<ol> Why is the project beneficial </ol>   
-<ol> What tool I used  </ol>
-<ol> How I linked image to file  </ol>
-<ol> How I began my project </ol>
-<ol> Ideas I had at first </ol>
-<ol> How My ideas changed </ol>
+1. Why I decided to choose the topic
+2. What’s websites were used  
+3. Why is the project beneficial   
+4. What tool I used 
+5. How I linked image to file
+6. How I began my project 
+7. Ideas I had at first 
+8. How My ideas changed 
 
 
 
