@@ -13,8 +13,7 @@
 SEP10 notes (https://docs.google.com/document/d/1BPWaw89Qy7e-kC05bsa_pbRqh_PpZzbl6O8OwlmhYoA/edit)  
 FP presentation slides (https://docs.google.com/presentation/d/1P0c9jxDH4fM0-datijCHGqR3YLkZMCUeOendhL9ZR7E/edit) 
 
-elevator pitch
-
+### Elevator pitch
 1. Why I decided to choose the topic
 2. What’s websites were used  
 3. Why is the project beneficial   
